@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Minrui Personal Website</title>
+    <link>https://kylin416.github.io/posts/</link>
+    <description>Recent content in Projects on Minrui Personal Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 13 Jun 2022 20:55:37 +0100</lastBuildDate><atom:link href="https://kylin416.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Changing the Narrative, Changing the World 2022</title>
+      <link>https://kylin416.github.io/posts/define_american/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://kylin416.github.io/posts/define_american/</guid>
+      <description>This is an industry report published by Define American and USC Norman Lear Center about immigrants characters&amp;rsquo; effects on public&amp;rsquo;s beliefs, behaviors, and attitudes. During this project, I assisted with data analysis, including data exploring and statistical analysis.</description>
+    </item>
+    
+    <item>
+      <title>Suicide Crisis Prevention in China</title>
+      <link>https://kylin416.github.io/posts/homeless_network/</link>
+      <pubDate>Tue, 10 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://kylin416.github.io/posts/homeless_network/</guid>
+      <description>This is a group project I have done with Yun Wang and Hongping Wu on COMM557 Data Science for Communication &amp;amp; Social Networks.
+Literature Review&gt; Literature Review # RQ1: What are public attitudes toward homelessness on social media?</description>
+    </item>
+    
+    <item>
+      <title>Suicide Crisis Prevention in China</title>
+      <link>https://kylin416.github.io/posts/data_journalism/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://kylin416.github.io/posts/data_journalism/</guid>
+      <description>This is a data journalism I did with Jin Wan, Siyu Zhou, and Mengying Li on Data Journalism at RUC Journalism.
+At 1:41 in the afternoon the next day, the girl who sent the suicidal message was on the train from Lanzhou to Wuchang.</description>
+    </item>
+    
+  </channel>
+</rss>
